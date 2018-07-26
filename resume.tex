@@ -1,0 +1,166 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+% Awesome CV LaTeX Template
+%
+% This template has been downloaded from:
+% https://github.com/posquit0/Awesome-CV
+%
+% Author:
+% Claud D. Park <posquit0.bj@gmail.com>
+% http://www.posquit0.com
+%
+% Template license:
+% CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+%
+% Template modified:
+% Robert Fardoulys
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Configuration
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Themes: Awesome-CV
+\documentclass[]{awesome-cv}
+\usepackage{textcomp}
+%%% Override a directory location for fonts(default: 'fonts/')
+\fontdir[fonts/]
+
+%%% Configure a directory location for sections
+\newcommand*{\sectiondir}{resume/}
+
+%%% Override color
+% Awesome Colors: awesome-emerald, awesome-skyblue, awesome-red, awesome-pink, awesome-orange
+%                 awesome-nephritis, awesome-concrete, awesome-darknight
+%% Color for highlight
+% Define your custom color if you don't like awesome colors
+\colorlet{awesome}{awesome-red}
+%\definecolor{awesome}{HTML}{CA63A8}
+%% Colors for text
+%\definecolor{darktext}{HTML}{414141}
+%\definecolor{text}{HTML}{414141}
+%\definecolor{graytext}{HTML}{414141}
+%\definecolor{lighttext}{HTML}{4141lat41}
+
+%%% Override a separator for social informations in header(default: ' | ')
+%\headersocialsep[\quad\textbar\quad]
+    \begin{document}
+    
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Profile
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{center}
+	\headerfirstnamestyle{Robert} \headerlastnamestyle{Fardoulys} \\
+	\vspace{2mm}
+	{\faEnvelope\ robertfardoulys@gmail.com} | {\faMobile\ (+61) 417351212} | {\faMapMarker\ Brisbane, QLD Australia}
+\end{center}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Education
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\cvsection{Education History}
+\begin{cventries}
+	\cventry
+	{High School Certificate}
+	{Anglican Church Grammar School}
+	{Brisbane, QLD Australia}
+	{2014}
+	{}
+	\cventry
+	{BS in Computer Science}
+	{Queensland University of Technology}
+	{Brisbane, QLD Australia}
+	{Feb 2015 – Jul 2018}
+	{}
+	\cventry
+	{Exchange Program in Computer Science / Game Design}
+	{KTH Royal Institute of Technology}
+	{Stockholm, Sweden}
+	{Aug 2016 – Jan 2017}
+	{}
+\end{cventries}
+
+\vspace{-2mm}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Experience
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\cvsection{Work Experience}
+\begin{cventries}
+	\cventry
+	{Desktop Support Engineer}
+	{Greenlight}
+	{Brisbane City, QLD Australia}
+	{Aug 2017 – Nov 2017}
+	{\begin{cvitems}
+		\item {Contract Desktop support for the Queensland Government Department of Health, and ProBuild.}
+		\end{cvitems}}
+	\cventry
+	{IOS Developer}
+	{MEX Maintenance Experts}
+	{Brisbane, QLD Australia}
+	{Jan 2015 – Jan 2016}
+	{\begin{cvitems}
+		\item {Objective-C IOS development, integrating social services with Apple maps.}
+		\end{cvitems}}
+\end{cventries}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Skills
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\cvsection{Skills}
+\begin{cventries}
+	\cventry
+	{}
+	{\def\arraystretch{1.15}{\begin{tabular}{ l l }
+		Programming:  & {\skill{ Java, C, C++, C\#, Python, Rust, LaTex}} \\
+		Linux / Unix:  & {\skill{ Command line, systems/network administration}} \\
+		Networking / Network programming:  & {\skill{ Server/router programming, firewall rules, posix network programming}} \\
+		Design:  & {\skill{ Photoshop, CAD, UI / UX design}} \\
+		Git:  & {\skill{ Source control, collaborative programming}} \\
+		\end{tabular}}}
+	{}
+	{}
+	{}
+\end{cventries}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Research
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\vspace{-7mm}
+\cvsection{Research}
+\begin{cventries}
+	\cventry
+	{A literature review of the state and history of NFC security, with a focus on building modern safe NFC based systems.}
+	{A guide to building safe NFC systems}
+	{Supervised by Dr Ernest Foo}
+	{LaTex, Python, Bash}
+	{}
+	
+	\vspace{-5mm}
+	\cventry
+	{A Development project testing attacks and mitigations for Mifare card systems.}
+	{Practical Mifare Classic authentication}
+	{Supervised by Dr Mathew Mckauge}
+	{LaTex, Python, C}
+	{}
+	
+	\vspace{-5mm}
+\end{cventries}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Interests
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\cvsection{Interests}
+\begin{cventries}
+	\cventry
+	{}
+	{\def\arraystretch{1.15}{\begin{tabular}{ l l }
+		Security:  & {\skill{ Hardware, Networks, Binary}} \\
+		Programming:  & {\skill{ Firmware development, python automation}} \\
+		Cooking:  & {\skill{ Everything}} \\
+		Art:  & {\skill{ Painting, Drawing, Portraiture, Photography}} \\
+		Maths:  & {\skill{ Shader Maths, Algorithms, Lossless compression}} \\
+		Dogs:  & {\skill{ Dogs}} \\
+		\end{tabular}}}
+	{}
+	{}
+	{}
+\end{cventries}
+
+\ 
+\end{document}
