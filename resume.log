@@ -1,12 +1,12 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2018.7.26)  31 JUL 2018 18:29
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Debian) (preloaded format=xelatex 2018.8.23)  24 AUG 2018 12:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/rob/Code/resume/resume
-(/home/rob/Code/resume/resume.tex
+**/home/ardo/Code/resume/resume
+(/home/ardo/Code/resume/resume.tex
 LaTeX2e <2017-04-15>
-Babel <3.18> and hyphenation patterns for 3 language(s) loaded.
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
 (./awesome-cv.cls
 Document Class: awesome-cv 2015/12/14 v1.3 Awesome Curriculum Vitae Class
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -970,22 +970,22 @@ Overfull \hbox (98.19865pt too wide) in paragraph at lines 120--120
 [][][]|  
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 166.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 183.
 [1
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 166.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 183.
  (./resume.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 166.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 166.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 183.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 183.
  ) 
 Here is how much of TeX's memory you used:
- 25523 strings out of 494988
- 461821 string characters out of 6178638
- 658622 words of memory out of 5000000
- 29161 multiletter control sequences out of 15000+600000
+ 25523 strings out of 493007
+ 461824 string characters out of 6136719
+ 664790 words of memory out of 5000000
+ 29291 multiletter control sequences out of 15000+600000
  532283 words of font info for 71 fonts, out of 8000000 for 9000
- 14 hyphenation exceptions out of 8191
- 47i,16n,72p,10466b,422s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 1348 hyphenation exceptions out of 8191
+ 47i,16n,72p,10467b,422s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on resume.pdf (1 page).
