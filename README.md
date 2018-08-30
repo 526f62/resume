@@ -1,3 +1,1 @@
-# Resumake Template 
-> LaTeX code generated at [resumake.io](https://resumake.io)
-
+# It's a LaTeX resume, wow.
