@@ -1,13 +1,15 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (MiKTeX 2.9.7300 64-bit) (preloaded format=xelatex 2020.2.11)  11 FEB 2020 13:00
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2020.8.5)  5 AUG 2020 16:16
 entering extended mode
-**./resume.tex
-(resume.tex
-LaTeX2e <2020-02-02>
-L3 programming layer <2020-02-03> (awesome-cv.cls
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**resume.tex
+(./resume.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14> (./awesome-cv.cls
 Document Class: awesome-cv 2015/12/14 v1.3 Awesome Curriculum Vitae Class
-("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
-("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size10.clo"
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
 \c@part=\count163
@@ -21,7 +23,8 @@ File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen134
-) ("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\array.sty"
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
 Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
 \col@sep=\dimen135
 \ar@mcellbox=\box45
@@ -31,8 +34,7 @@ Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
 \backup@length=\skip50
 \ar@cellbox=\box46
 )
-("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/latex/enumitem\enumitem.
-sty"
+(/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \enitkv@toks@=\toks15
 \labelindent=\skip51
@@ -42,11 +44,10 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 \enit@count@id=\count171
 \enitdp@description=\count172
 )
-("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ragged2e\ragged2e.
-sty"
+(/usr/share/texlive/texmf-dist/tex/latex/ragged2e/ragged2e.sty
 Package: ragged2e 2019/07/28 v2.2 ragged2e Package (MS)
 
-("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ms\everysel.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/ms/everysel.sty
 Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 )
 \CenteringLeftskip=\skip52
@@ -64,20 +65,17 @@ Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 \RaggedRightParindent=\skip64
 \JustifyingParindent=\skip65
 )
-("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.
-sty"
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
-("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.st
-y"
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks17
 )
-("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifvtex.sty
-"
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
- ("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.sty
-"
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2019/11/07 v1.0c TeX engine tests
 ))
 \Gm@cnth=\count173
@@ -92,11 +90,8 @@ Package: iftex 2019/11/07 v1.0c TeX engine tests
 \Gm@layouthoffset=\dimen144
 \Gm@layoutvoffset=\dimen145
 \Gm@dimlist=\toks18
-
-("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/xelatex/xetexconfig\geom
-etry.cfg"))
-("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fancyhdr\fancyhdr.
-sty"
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
 s
 \f@nch@headwidth=\skip66
@@ -109,17 +104,15 @@ s
 \f@nch@O@olf=\skip73
 \f@nch@O@orf=\skip74
 )
-("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color
-.cfg"
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: xetex.def on input line 225.
 
-("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\xetex
-.def"
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/xetex.def
 File: xetex.def 2017/06/24 v5.0h Graphics/color driver for xetex
 )
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
@@ -131,14 +124,13 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
-("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifxetex.st
-y"
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifxetex.sty
 Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
 )
-("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xifthen\xifthen.st
-y"
+(/usr/share/texlive/texmf-dist/tex/latex/xifthen/xifthen.sty
 Package: xifthen 2015/11/05 v1.4.0 Extended ifthen features
- ("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\calc.sty"
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count176
 \calc@Bcount=\count177
@@ -150,39 +142,33 @@ LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count178
 \calc@Cskip=\skip77
-) ("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthen.sty"
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ifmtarg\ifmtarg.st
-y"
+(/usr/share/texlive/texmf-dist/tex/latex/ifmtarg/ifmtarg.sty
 Package: ifmtarg 2018/04/16 v1.2b check for an empty argument
 ))
-("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/latex/etoolbox\etoolbox.
-sty"
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count179
 )
-("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/latex/setspace\setspace.
-sty"
+(/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
-("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fontspec\fontspec.
-sty"
-("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/xparse\
-xparse.sty"
-("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\expl3.sty
-"
-Package: expl3 2020-02-03 L3 programming layer (loader) 
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2020-02-14 L3 programming layer (loader) 
 
-("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3backen
-d-xdvipdfmx.def"
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-xdvipdfmx.def
 File: l3backend-xdvipdfmx.def 2020-02-03 L3 backend support: xdvipdfmx
 \g__graphics_track_int=\count180
 \l__pdf_internal_box=\box48
 \g__pdf_backend_object_int=\count181
 \g__pdf_backend_annotation_int=\count182
 ))
-Package: xparse 2020-02-03 L3 Experimental document command parser
+Package: xparse 2020-02-14 L3 Experimental document command parser
 \l__xparse_current_arg_int=\count183
 \g__xparse_grabber_int=\count184
 \l__xparse_m_args_int=\count185
@@ -190,8 +176,7 @@ Package: xparse 2020-02-03 L3 Experimental document command parser
 )
 Package: fontspec 2020/02/03 v2.7h Font selection for XeLaTeX and LuaLaTeX
 
-("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fontspec\fontspec-
-xetex.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
 Package: fontspec-xetex 2020/02/03 v2.7h Font selection for XeLaTeX and LuaLaTe
 X
 \l__fontspec_script_int=\count187
@@ -209,55 +194,45 @@ X
 \l__fontspec_tmpb_dim=\dimen149
 \l__fontspec_tmpc_dim=\dimen150
 
-("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fontenc.sty"
-Package: fontenc 2020/01/25 v2.0m Standard LaTeX package
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
 )
-("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fontspec\fontspec.
-cfg")))
-("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/latex/unicode-math\unico
-de-math.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/share/texlive/texmf-dist/tex/latex/unicode-math/unicode-math.sty
 Package: unicode-math 2020/01/31 v0.8q Unicode maths in XeLaTeX and LuaLaTeX
 
-("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/latex/unicode-math\unico
-de-math-xetex.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/unicode-math/unicode-math-xetex.sty
 Package: unicode-math-xetex 2020/01/31 v0.8q Unicode maths in XeLaTeX and LuaLa
 TeX
 
-("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/l3keys2
-e\l3keys2e.sty"
-Package: l3keys2e 2020-02-03 LaTeX2e option processing using LaTeX3 keys
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2020-02-14 LaTeX2e option processing using LaTeX3 keys
 )
-("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fix-cm.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/base/fix-cm.sty
 Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
 
-("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ts1enc.def"
+(/usr/share/texlive/texmf-dist/tex/latex/base/ts1enc.def
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
 ))
-("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.st
-y"
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2020/01/20 v2.17e AMS math features
 \@mathmargin=\skip78
 
 For additional information on amsmath, use the `?' option.
-
-("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.st
-y"
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
 
-("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty
-"
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks19
 \ex@=\dimen151
 ))
-("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty
-"
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen152
 )
-("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty
-"
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count198
@@ -303,77 +278,62 @@ LaTeX Info: Redefining \] on input line 2860.
 \l__um_primecount_int=\count278
 \g__um_primekern_muskip=\muskip17
 
-("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/latex/unicode-math\unico
-de-math-table.tex"))) (fontawesome.sty
+(/usr/share/texlive/texmf-dist/tex/latex/unicode-math/unicode-math-table.tex)))
+(./fontawesome.sty
 Package: fontawesome 2015/11/04 v4.4.0 font awesome icons
 )
-("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/latex/parskip\parskip.st
-y"
+(/usr/share/texlive/texmf-dist/tex/latex/parskip/parskip.sty
 Package: parskip 2020-01-22 v2.0d non-zero parskip adjustments
 
-("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/latex/kvoptions\kvoption
-s.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
 
-("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ltxcmds\ltxcmds.
-sty"
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
 )
-("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/generic/kvsetkeys\kvsetk
-eys.sty"
+(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 )))
-("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hyperref.
-sty"
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
 
-("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdftexcmds\pdftexc
-mds.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
 Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/generic/infwarerr\infwar
-err.sty"
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode not found.
 )
-("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/generic/kvdefinekeys\kvd
-efinekeys.sty"
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 )
-("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pdfescape\pdfesc
-ape.sty"
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
 )
-("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hycolor\hycolor.st
-y"
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 )
-("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/latex/letltxmacro\letltx
-macro.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 )
-("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/latex/auxhook\auxhook.st
-y"
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
 \@linkdim=\dimen160
 \Hy@linkcounter=\count279
 \Hy@pagecounter=\count280
 
-("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\pd1enc.de
-f"
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
 )
-("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/generic/intcalc\intcalc.
-sty"
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/generic/etexcmds\etexcmd
-s.sty"
+(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
 \Hy@SavedSpaceFactor=\count281
@@ -385,19 +345,18 @@ Package hyperref Info: Backreferencing OFF on input line 4567.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4800.
 \c@Hy@tempcnt=\count282
- ("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip18
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5159.
 \XeTeXLinkMargin=\dimen161
 
-("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/generic/bitset\bitset.st
-y"
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 
-("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/generic/bigintcalc\bigin
-tcalc.sty"
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
@@ -414,8 +373,7 @@ Package hyperref Info: PDF/A mode OFF on input line 6460.
 LaTeX Info: Redefining \ref on input line 6500.
 LaTeX Info: Redefining \pageref on input line 6504.
 
-("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/generic/atbegshi\atbegsh
-i.sty"
+(/usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty
 Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
 )
 \Hy@abspage=\count284
@@ -424,16 +382,13 @@ Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
 )
 Package hyperref Info: Driver (autodetected): hxetex.
 
-("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hxetex.de
-f"
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hxetex.def
 File: hxetex.def 2020/01/14 v7.00d Hyperref driver for XeTeX
 
-("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\puenc.def
-"
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2020/01/14 v7.00d Hyperref: PDF Unicode definition (HO)
 )
-("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/generic/stringenc\string
-enc.sty"
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
@@ -443,16 +398,13 @@ Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 \Fld@listcount=\count289
 \c@bookmark@seq@number=\count290
 
-("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/latex/rerunfilecheck\rer
-unfilecheck.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
 
-("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/latex/atveryend\atveryen
-d.sty"
+(/usr/share/texlive/texmf-dist/tex/latex/atveryend/atveryend.sty
 Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
 )
-("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/generic/uniquecounter\un
-iquecounter.sty"
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
@@ -460,17 +412,16 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip81
 )
-("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/generic/stringenc\se-asc
-ii-print.def"
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/se-ascii-print.def
 File: se-ascii-print.def 2019/11/29 v1.12 stringenc: Printable ASCII characters
 
 )
 Package hyperref Info: Option `colorlinks' set `false' on input line 95.
 \c@colorCounter=\count291
 )
-("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\textcomp.sty"
-Package: textcomp 2020/02/02 v2.0m Standard LaTeX package
-) (resume.aux)
+(/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+) (./resume.aux)
 \openout1 = `resume.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
@@ -493,12 +444,14 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 46.
 LaTeX Font Info:    ... okay on input line 46.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 46.
 LaTeX Font Info:    ... okay on input line 46.
- ABD: EverySelectfont initializing macros
+
+ABD: EverySelectfont initializing macros
 LaTeX Info: Redefining \selectfont on input line 46.
 
-*geometry* detected driver: pdftex
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
-* driver: pdftex
+* driver: xetex
 * paper: <default>
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
@@ -577,17 +530,13 @@ LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 t line 46.
 \AtBeginShipoutBox=\box52
 Package hyperref Info: Link coloring OFF on input line 46.
-
-("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.s
-ty"
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
 
-("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/latex/refcount\refcount.
-sty"
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 )
-("C:\Users\rober\AppData\Local\Programs\MiKTeX 2.9\tex/generic/gettitlestring\g
-ettitlestring.sty"
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count292
@@ -595,7 +544,8 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 46.
 LaTeX Info: Redefining \pageref on input line 46.
 LaTeX Info: Redefining \nameref on input line 46.
- (resume.out) (resume.out)
+
+(./resume.out) (./resume.out)
 \@outlinefile=\write3
 \openout3 = `resume.out'.
 
@@ -620,29 +570,29 @@ able
 (Font)              Font shape `TU/SourceSansPro(2)/m/it' tried instead on inpu
 t line 66.
 
-Overfull \hbox (23.64867pt too wide) in paragraph at lines 135--135
+Overfull \hbox (38.67867pt too wide) in paragraph at lines 158--158
 [][][]|  
  []
 
 [1
 
-]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 196.
- [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 196.
- (resume.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 196.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 196.
+] [2]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 219.
+ [3]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 219.
+ (./resume.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 219.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 219.
 Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 18624 strings out of 414621
- 322645 string characters out of 2907231
- 776886 words of memory out of 3000000
- 35510 multiletter control sequences out of 15000+200000
- 533838 words of font info for 82 fonts, out of 3000000 for 9000
+ 18665 strings out of 479819
+ 326887 string characters out of 5895847
+ 777565 words of memory out of 5000000
+ 35536 multiletter control sequences out of 15000+600000
+ 533838 words of font info for 82 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 54i,15n,109p,820b,422s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 54i,15n,109p,818b,420s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on resume.pdf (2 pages).
+Output written on resume.pdf (3 pages).
